@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "~5.2",
+        "php-curl-class/php-curl-class": "^4.6",
+        "braintree/braintree_php" : "3.5.0",
+        "aws/aws-sdk-php": "2.*"
+    }
+}
